@@ -42,14 +42,3 @@ Ensure the following prerequisites are met:
 - Plots depict training and validation accuracy/loss trends over epochs.
 - Visualizations include images with predicted classifications, distinguishing correct and incorrect predictions.
 
-## Contributors
-
-- [Your Name]
-- [Contributor 1]
-- [Contributor 2]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to tailor the README to your project specifics, providing additional details or instructions as needed.
